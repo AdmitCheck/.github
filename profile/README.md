@@ -13,3 +13,7 @@ With AdmitCheck, universities can automatically pre-evaluate applications for co
 - Automatic grade conversion.
 - Comparison of programme-specific criteria.
 - AI and OCR-supported document verification.
+
+## Interested in contributing?
+
+You would like to change the world of higher education? You want to make excellent education available to anybody? Then join our team! We are always looking for talented and motivated developers. Get in touch with [Carmine (Mino) Siena](mailto:c.siena@compounder.eu), CTO of Compounder—the company behind AdmitCheck.
