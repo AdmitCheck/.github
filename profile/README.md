@@ -14,6 +14,8 @@ With AdmitCheck, universities can automatically pre-evaluate applications for co
 - Comparison of programme-specific criteria.
 - AI and OCR-supported document verification.
 
+AdmitCheck provides a secure, developer-friendly REST API that integrates seamlessly with campus management systems. We are fully GDPR-compliant, with data protection and security embedded in our design and operations.
+
 ## Interested in contributing?
 
-You would like to change the world of higher education? You want to make excellent education available to anybody? Then join our team! We are always looking for talented and motivated developers. Get in touch with [Carmine (Mino) Siena](mailto:c.siena@compounder.eu), CTO of Compounder—the company behind AdmitCheck.
+Help us transform higher education and expand access to excellence. We are always seeking talented, mission-driven developers. Contact [Carmine (Mino) Siena](mailto:c.siena@compounder.eu), CTO of Compounder—the company behind AdmitCheck.
